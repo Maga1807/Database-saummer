@@ -27,7 +27,7 @@ CREATE TABLE employees (
 );
 
 CREATE TABLE job_grades (
-    grade char(1),
+    grade char(1)
     lowest_salary integer,
     highest_salary integer
 );
