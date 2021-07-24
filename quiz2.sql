@@ -1,6 +1,6 @@
 Part1
 task4
-answer: C. I and II
+answer: D
 because we already have Johnson in Borrower and 1990 in Loan
 CREATE TABLE LOAN(
     loan_number varchar(100),
@@ -24,7 +24,7 @@ SELECT * FROM loan_info
 
 
 task3
-answer: C. Apply.cName, College.GPA
+answer:
         D. Apply.sID, Student. GPA
     Because varchar types search takes longer time than number formats .
     Apply.sID, Student. GPA are umber and they are involved in Select and used as one of the = <>
